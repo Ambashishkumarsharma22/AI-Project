@@ -1,7 +1,0 @@
-# Ignore model files (they're large)
-*.h5
-*.pth
-*.pt
-*.onnx
-*.pkl
-*.pb
